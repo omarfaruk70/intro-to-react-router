@@ -1,3 +1,8 @@
 ul a{
     margin-right: 15px;
 }
+ul a.active{
+    color: white;
+    background-color: blue;
+    font-style: italic;
+}
